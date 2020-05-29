@@ -1,6 +1,6 @@
 # Prediction of epileptic seizures with convolutional neural networks and functional near-infrared spectroscopy signals
-_Roberto Rosas-Romero, Edgar Guevara, Ke Peng, Dang Khoa Nguyen, Frédéric Lesage, Philippe Pouliot, Wassim-Enrique Lima-Saad_
-
+Please cite as:
+Rosas-Romero, R., Guevara, E., Peng, K., Nguyen, D. K., Lesage, F., Pouliot, P., & Lima-Saad, W.-E. (2019). _Prediction of epileptic seizures with convolutional neural networks and functional near-infrared spectroscopy signals_ Computers in Biology and Medicine, **111**, 103355. https://doi.org/10.1016/j.compbiomed.2019.103355
 
 ## CNN Implementation in MATLAB for epileptic seizure prediction.
 
